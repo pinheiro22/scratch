@@ -6,3 +6,5 @@
 Introdução a lógica de programação com Scratch
 ## Autor
 Gustavo Pinheiro 
+## Projetos
+[Calculo da Media](https://scratch.mit.edu/projects/881964109/)
