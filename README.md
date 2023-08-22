@@ -9,3 +9,8 @@ Gustavo Pinheiro
 ## Projetos
 - [Cálculo da Média](https://scratch.mit.edu/projects/881964109/)
 - [Conversor de Temperatura](https://scratch.mit.edu/projects/882607784/)
+- [Regra de Três](https://scratch.mit.edu/projects/882635435/)
+- [PDV - Ponto de vendas](https://scratch.mit.edu/projects/883235971/)
+- [Milhas - Km](https://scratch.mit.edu/projects/884616869/)
+- [Libras - Kg](https://scratch.mit.edu/projects/884624642/)
+- [Custo x Vendas](https://scratch.mit.edu/projects/884628433/)
