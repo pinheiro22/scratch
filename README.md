@@ -7,5 +7,5 @@ Introdução a lógica de programação com Scratch
 ## Autor
 Gustavo Pinheiro 
 ## Projetos
-[Cálculo da Média](https://scratch.mit.edu/projects/881964109/)
-[Conversor de Temperatura](https://scratch.mit.edu/projects/882607784/)
+-[Cálculo da Média](https://scratch.mit.edu/projects/881964109/)
+-[Conversor de Temperatura](https://scratch.mit.edu/projects/882607784/)
