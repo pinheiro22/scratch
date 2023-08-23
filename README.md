@@ -14,3 +14,4 @@ Gustavo Pinheiro
 - [Milhas - Km](https://scratch.mit.edu/projects/884616869/)
 - [Libras - Kg](https://scratch.mit.edu/projects/884624642/)
 - [Custo x Vendas](https://scratch.mit.edu/projects/884628433/)
+- [App - Valor da hora de serviço](https://scratch.mit.edu/projects/884979245/)
