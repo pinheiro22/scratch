@@ -16,8 +16,8 @@ Gustavo Pinheiro
 - [Custo x Vendas](https://scratch.mit.edu/projects/884628433/)
 - [App - Valor da hora de serviço](https://scratch.mit.edu/projects/884979245/)
 - [Etanol x Gasolina](https://scratch.mit.edu/projects/887260322/)
-- [Lamp AND](https://scratch.mit.edu/projects/888053438/)
-- [Lamp - OR](https://scratch.mit.edu/projects/888070425/editor/)
+- [AND](https://scratch.mit.edu/projects/888053438/)
+- [OR](https://scratch.mit.edu/projects/888070425/editor/)
 - [NOT](https://scratch.mit.edu/projects/888079881/)
 
 ## A Hora do Código
