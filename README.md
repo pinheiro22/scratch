@@ -19,6 +19,7 @@ Gustavo Pinheiro
 - [AND](https://scratch.mit.edu/projects/888053438/)
 - [OR](https://scratch.mit.edu/projects/888070425/editor/)
 - [NOT](https://scratch.mit.edu/projects/888079881/)
+- [Calculo de combustivel](https://scratch.mit.edu/projects/888448598/)
 
 ## A Hora do Código
 ![Certificado](https://github.com/pinheiro22/scratch/blob/main/assets/icons/certificado.jpg)
