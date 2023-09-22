@@ -21,6 +21,7 @@ Gustavo Pinheiro
 - [NOT](https://scratch.mit.edu/projects/888079881/)
 - [Calculo de combustivel](https://scratch.mit.edu/projects/888448598/)
 - [Urna Eleitoral](https://scratch.mit.edu/projects/889252763/)
+- [Space Invaders](https://scratch.mit.edu/projects/896356680/)
 
 ## A Hora do Código
 ![Certificado](https://github.com/pinheiro22/scratch/blob/main/assets/icons/certificado.jpg)
